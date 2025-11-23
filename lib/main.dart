@@ -120,7 +120,7 @@ class GeneratorPage extends StatelessWidget {
     } else {
       icon = Icons.favorite_border;
     }
-    //test
+
     return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
